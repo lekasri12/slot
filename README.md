@@ -128,7 +128,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![Screenshot 2024-03-18 110342](https://github.com/lekasri12/slot/assets/149037427/8744e156-e797-4773-8992-657579a93988)
+![Screenshot 2024-03-18 115826](https://github.com/lekasri12/slot/assets/149037427/5a07704d-dab9-4eec-bf9d-1f4d40fb4e4d)
+
 
 
 
