@@ -29,9 +29,11 @@ Execute the program using runserver command.
    <head>
        <title> TIME TABLE </title>
    </head>
- <body color="black" align="center">
- <table border="6" cellspacing="8" cellpadding="10" align="center" bgcolor="cyan">
+ <body align="center">
+ <table border="6" cellspacing="6" cellpadding="8" align="center" bgcolor="cyan">
+ <img src="logo.png" align="center" height="70" width="800">
 <caption><b>SLOT TIMETABLE- LEKA SRI G (23013223)</b></caption>
+
 
    <tr>
         <th bgcolor="grey">Day/Time</th>
@@ -83,11 +85,11 @@ Execute the program using runserver command.
 <head>
     <title> subject code </title>
 </head>
- <body bg color= "">
+ <body>
  <table border="6" cellspacing="8" cellpadding="10" align="center">
 
 <tr> 
-        <th>S.NP</th>
+        <th>S.NO</th>
         <th>Subject Code</th>
         <th>Subject</th>
 </tr>        
@@ -123,12 +125,12 @@ Execute the program using runserver command.
 </tr>    
 </body>
 </html>
-            
 ```
 
 
 ## OUTPUT
-![Screenshot 2024-03-18 115826](https://github.com/lekasri12/slot/assets/149037427/5a07704d-dab9-4eec-bf9d-1f4d40fb4e4d)
+![Screenshot 2024-03-19 113935](https://github.com/lekasri12/slot/assets/149037427/250b9fee-695c-412f-911c-952a2a457478)
+
 
 
 
